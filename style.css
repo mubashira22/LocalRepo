@@ -1,3 +1,6 @@
 p {
+    align-items: center;
+    border: 2rem;
+    background-color: darkred;
     color: cornflowerblue;
 }
