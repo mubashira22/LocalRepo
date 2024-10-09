@@ -1,12 +1,13 @@
 * {
-    background-color: #0C0F0A;
+    background-color: #FFFF;
 
 }
 
 h1{
-    color: #FF206E;
-    background-color: #FBFF12;
+    color: #FDD35D;
+    background-color: #35033A;
     text-align: center;
+    text-decoration: dotted;
     padding: 1rem;
 }
 p {
@@ -14,6 +15,6 @@ p {
     font-size: 3vh;
     text-align: center;
     border-radius: 2rem;
-    background-color:#41EAD4;
-    color: #FFFFFF;
+    background-color:#9113A4;
+    color: #DDD0CF;
 }
