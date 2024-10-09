@@ -1,6 +1,19 @@
+* {
+    background-color: #0C0F0A;
+
+}
+
+h1{
+    color: #FF206E;
+    background-color: #FBFF12;
+    text-align: center;
+    padding: 1rem;
+}
 p {
-    align-items: center;
-    border: 2rem;
-    background-color: darkred;
-    color: cornflowerblue;
+    padding: 1rem;
+    font-size: 3vh;
+    text-align: center;
+    border-radius: 2rem;
+    background-color:#41EAD4;
+    color: #FFFFFF;
 }
